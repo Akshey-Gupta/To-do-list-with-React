@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const ToDoList = () => {
 
-    const[tasks,setTasks]=useState(["Wake Up","Take a shit","Get out of bed","eat the dog","walk the breakfast"]);
+    const[tasks,setTasks]=useState(["Wake Up","Brush Your Teeth","Exercise","Eat Breakfast","Go to Work"]);
     const[newTask,setnewTask]=useState("");
 
     function handleTask(e){
