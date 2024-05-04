@@ -28,9 +28,10 @@ Open your web browser and navigate to http://localhost:3000 to view the React To
 
 Features
 
-Add Tasks: Enter a new task in the input field and press Enter to add it to the list.
-Mark Tasks as Completed: Click on a task to mark it as completed. Completed tasks will be visually differentiated from active tasks.
-Delete Tasks: Click on the delete button next to a task to remove it from the list.
+* Add Tasks: Enter a new task in the input field and press Enter to add it to the list.
+* Mark Tasks as Completed: Click on a task to mark it as completed. Completed tasks will be visually differentiated from active tasks.
+* Delete Tasks: Click on the delete button next to a task to remove it from the list.
+* 
 Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
