@@ -6,7 +6,7 @@ To set up and run the application locally, follow these steps:
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/react-todo-list.git
+git clone [https://github.com/your-username/react-todo-list.git](https://github.com/Akshey-Gupta/To-do-list-with-React.git)
 
 2. Navigate to the Project Directory:
 
